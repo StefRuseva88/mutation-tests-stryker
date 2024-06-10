@@ -21,7 +21,7 @@ This repository contains exercises focused on mutation testing, a critical aspec
 
 ## Mutation Testing with Stryker
 
-### Installing Stryker
+1. **Installing Stryker**
 
 Install Stryker using the Package Manager Console with the following command:
 
@@ -29,12 +29,13 @@ Install Stryker using the Package Manager Console with the following command:
 dotnet tool install -g dotnet-stryker
 ---
 
-## Running Stryker
+2. **Running Stryker**
 
 Execute Stryker to perform mutation testing on your project:
 
 ```bash
 dotnet stryker
+---
 
 
 
