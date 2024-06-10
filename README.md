@@ -1,5 +1,6 @@
 # Mutation Testing using .Net and Stryker
-
+## This is a test project for Back-End Test Technologies January 2024 Course @ SoftUni.
+---
 ## Project Overview
 
 This repository contains exercises focused on mutation testing, a critical aspect of ensuring code quality. 
