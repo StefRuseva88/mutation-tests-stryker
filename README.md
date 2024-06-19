@@ -2,10 +2,10 @@
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-## This is a test project for Back-End Test Technologies January 2024 Course @ SoftUni.
+### This is a test project for Back-End Test Technologies January 2024 Course @ SoftUni.
 ---
 
-### Prerequisites
+## Prerequisites
 
 - .NET Core SDK 3.1 or higher
 - Visual Studio 2019 or later / Visual Studio Code
@@ -34,7 +34,7 @@ After running Stryker, observe the generated report. The report will show the mu
 - [Stryker Playground](https://stryker-mutator.io/stryker-playground)
 - Visit the Stryker Playground to explore an interactive example. Experiment with creating additional tests to achieve a 100% mutation score.
 
-Further Reading and Examples
+## Further Reading and Examples
 - [Robo Coasters](https://stryker-mutator.io/robo-coasters-example): Explore the Robo Coasters example for more insights into mutation testing with Stryker.
 - [Robo Bar Example](https://stryker-mutator.io/docs/General/example): Try the Robo Bar Example by following the tutorial. You'll need node.js and git to run this example.
 
