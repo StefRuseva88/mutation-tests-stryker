@@ -2,6 +2,9 @@
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+[![NUnit](https://img.shields.io/badge/tested%20with-NUnit-22B2B0.svg)](https://nunit.org/)
+[![Stryker](https://img.shields.io/badge/mutation%20tested%20with-Stryker-4E4E4E.svg)](https://stryker-mutator.io/)
+
 ### This is a test project for **Back-End Test Technologies** January 2024 Course @ SoftUni.
 ---
 
