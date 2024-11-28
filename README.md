@@ -40,9 +40,6 @@ After running Stryker, observe the generated report. The report will show the mu
 - [Robo Coasters](https://stryker-mutator.io/robo-coasters-example): Explore the Robo Coasters example for more insights into mutation testing with Stryker.
 - [Robo Bar Example](https://stryker-mutator.io/docs/General/example): Try the Robo Bar Example by following the tutorial. You'll need node.js and git to run this example.
 
-## Contributing
-Contributions are welcome! If you have any improvements or suggestions, feel free to open a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
